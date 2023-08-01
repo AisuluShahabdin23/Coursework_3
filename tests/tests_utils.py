@@ -21,5 +21,4 @@ def test_get_last_values(test_data):
 def test_get_formatted_data(test_data):
     data = get_formatted_data(test_data)
     print(data)
-#    vivod = print(data)
-#    assert data == vivod
+
